@@ -4,8 +4,7 @@ The installation of the plugin 3 basic step.
 
 1.Include the project in your compiler
 ---------------------------------------------
-2.
----------------------------------------------
+
 Basic usage:
 
 You can activate double factor protection by implementing mysql database its own database.
