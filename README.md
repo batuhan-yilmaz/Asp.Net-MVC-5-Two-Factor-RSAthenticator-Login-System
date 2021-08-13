@@ -1,3 +1,4 @@
+
 Installation
 The installation of the plugin 3 basic step.
 
@@ -23,5 +24,6 @@ used technologies:
 
 .NET MVC & MYSQL & Google Auth
 
-
+![111Adsız](https://user-images.githubusercontent.com/88774061/129372479-0e02a633-fda3-48d3-9283-c5fd33bd1dbd.png)
+![tw1sız](https://user-images.githubusercontent.com/88774061/129372485-16ce016d-0e1a-4cc2-8a64-343e49065ab3.png)
 
